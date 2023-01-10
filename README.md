@@ -1,4 +1,6 @@
-En primer lugar crear la base de datos crudfranco. Y cargar la base de datos (El archivo se encuentra en la carpeta). Luego al ejecutar el proyecto, tendran que registrarse, para poder acceder al CRUD. 
+En primer lugar crear la base de datos crudfranco. Y cargar la base de datos (El archivo se encuentra en la carpeta). Luego al ejecutar el proyectov(php artisan serve) ademas, ejecutar en otra consola el siguiente comando:  npm run dev.
+
+Luego, tendran que registrarse, para poder acceder al CRUD. 
 
 
 
